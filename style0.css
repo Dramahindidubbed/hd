@@ -1,17 +1,18 @@
 button{
-	height: 40px;
-	width: 80px;
+	height: 20px;
+	width: 50px;
 	border-radius: 50px;
 	border: none;
 	ouline: none;
 	background: blue;
 	color: black;
-	font-size: 5px;
+	font-size: 3px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	cursor: pointer;
 
 }
+
 
 
 
