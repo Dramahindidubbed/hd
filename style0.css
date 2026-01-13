@@ -6,12 +6,13 @@ button{
 	ouline: none;
 	background: blue;
 	color: black;
-	font-size: 2px;
+	font-size: 1px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	cursor: pointer;
 
 }
+
 
 
 
