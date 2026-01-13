@@ -1,5 +1,4 @@
 button{
-	position: relative;
 	height: 60px;
 	width: 200px;
 	border-radius: 50px;
@@ -13,3 +12,4 @@ button{
 	cursor: pointer;
 
 }
+
